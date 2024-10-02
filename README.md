@@ -1,3 +1,6 @@
+**Overview**
+This project is targeted towards exploring ways to mitigate downcoding attack by enhancing Differential Privacy using Residue Number Systems
+
 **Folder Structure and setup**
 
 **The main folder contains a director for /datasets and 6 .ipynb files The files for this solution are:**

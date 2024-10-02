@@ -1,4 +1,4 @@
-#Overview
+**Overview**
 
 This project is targeted towards exploring ways to mitigate downcoding attack by enhancing Differential Privacy using Residue Number Systems
 
